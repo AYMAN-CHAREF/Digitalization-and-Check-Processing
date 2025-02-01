@@ -75,14 +75,6 @@ This project focuses on automating the check management process using **Optical 
 
 ---
 
-## 🤝 Acknowledgments
-
-Special thanks to:
-- **Mr. Abdellatif GOU-ALI** (Supervisor)
-- **Mr. Zakaria AZELMAD** (Supervisor)
-
----
-
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
